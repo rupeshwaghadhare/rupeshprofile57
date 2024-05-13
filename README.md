@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rupeh Waghadhare</h1>
-<h3 align="center">A Professional IT Technical Analyst</h3>
+<h1 align="center">Hi 👋, I'm Rupesh Waghadhare</h1>
+<h3 align="center">An Experienced IT Professional Technical Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQH9YrHFkXzDHw/article-cover_image-shrink_720_1280/0/1627662163285?e=2147483647&v=beta&t=9wmLlZbIQK1DD72CaNA_KmDQI_m3bPiw9wG73yqxOhA>
 
 
