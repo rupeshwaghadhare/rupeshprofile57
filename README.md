@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AIOps, Automation scripting**
 
-- 📫 How to reach me **rupeshwaghadhare57@gmail.com**
+- 📫 How to reach me **rupeshwaghdadhare57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
