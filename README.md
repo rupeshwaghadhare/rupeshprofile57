@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **APM Tool migration from Sitescope to Dynatrace**
 
-- 🌱 I’m currently learning **Tool Development, Automation scripts**
+- 🌱 I’m currently learning **AIOps, Automation scripting**
 
 - 📫 How to reach me **rupeshwaghadhare57@gmail.com**
 
